@@ -19,5 +19,5 @@ let data = {
   },
 };
 
-const location = data.Sophia.study[1].secondary[1];
+const location = data.Sophia.study[1].secondary[1].location;
 console.log(location);
